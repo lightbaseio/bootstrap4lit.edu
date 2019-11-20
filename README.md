@@ -1,4 +1,4 @@
-# [Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)
+# [Bootstrap Your Lit-Element Tutorial Sample Code](https://medium.com/@support_29366/bootstrap-your-lit-element-71d0a2ada25f)
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/32/original/opt_lbd_thumbnail.jpg "Light Bootstrap Dashboard")
 
